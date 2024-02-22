@@ -2,6 +2,8 @@
 
 Welcome to our AI Projects repository! We're excited to share various AI projects with you, each designed to showcase the power and potential of artificial intelligence in solving real-world problems.
 
+## Project - 1 
+
 ## Fruit Guesser 🍎🍌🍓
 
 **Description:**  
