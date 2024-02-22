@@ -1,10 +1,11 @@
 AI Projects Repository 🤖
+
 Welcome to our AI Projects repository! We're excited to share various AI projects with you, each designed to showcase the power and potential of artificial intelligence in solving real-world problems.
 
 Project - 1 
 Fruit Guesser 🍎🍌🍓
 Description:
-The Fruit Guesser is a fun and interactive web application that uses a machine learning model to identify fruits based on their characteristics. Users can input various attributes such as color, size, texture, taste, and presence of seeds to guess the fruit, and the model provides an accurate prediction.
+The Fruit Guesser is a fun and interactive web application that uses a machine-learning model to identify fruits based on their characteristics. Users can input various attributes such as color, size, texture, taste, and presence of seeds to guess the fruit, and the model provides an accurate prediction.
 
 Features:
 
